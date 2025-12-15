@@ -1,6 +1,6 @@
 ## Training Overview
 
-Altogether, we trained the **YOLOv10 model five times**. Initial experiments (results can be found in **02_bee_detection_augmentation**) conducted before and after data augmentation showed that the model frequently confused worker bees with the background. Based on these observations, we decided to manually review and correct the dataset instead of relying solely on automatic image splitting.
+We trained YOLOv10 model in total five times. Initial experiments (results can be found in **02_bee_detection_augmentation**) conducted before and after data augmentation showed that the model frequently confused worker bees with the background. Based on these observations, we decided to manually review and correct the dataset instead of relying solely on automatic image splitting.
 
 After manual correction, the training results are organized into the following folders:
 
